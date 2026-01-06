@@ -35,51 +35,7 @@
 - AI 모델 연동, 보안·인증(CAPTCHA) 서비스 팀 프로젝트 수행
 - GPU 서버 활용 ML 추론 및 서비스 배포 경험
 ---
-
 ## 📁 Past Projects
-
-### 🎓 학부 프로젝트
-
-#### 😷 스마트 마스크 보관함 (2021)
-> 비접촉 방식의 얼굴 인식 기반 마스크 제공 및 IoT 연동 스마트 보관 시스템
-
-**주요 기능**
-- 딥러닝(ResNet50, MobileNetV2) 기반 얼굴 인식을 통한 사용자 접근 제어
-- 마스크 미착용 시 보관함 자동 개방으로 비접촉 마스크 제공
-- 스마트폰 앱과 연동하여 마스크 재고 및 날씨 정보 확인 기능 구현
-- 보관함 문 개방 시 내부 램프 자동 제어 등 시스템 안정성 개선
-
-**Tech Stack**  
-`Raspberry Pi` `Python` `OpenCV` `TensorFlow` `Deep Learning` `IoT`
-
----
-
-#### 🔥 스마트 화재 경보기 (2022)
-> 실시간 센서 데이터 기반 화재 감지 및 스마트폰 알림 연동 IoT 화재 대응 시스템
-
-**주요 기능**
-- 열화상 카메라와 일산화탄소(CO) 센서를 활용한 화재 감지 시스템 구축
-- 화재 발생 시 부저·LED를 통한 즉각적인 현장 경고 제공
-- 스마트폰 앱 연동으로 실시간 화재 알림 전송
-- 센서 데이터 통합 처리 및 안정적인 하드웨어–소프트웨어 연동 구현
-
-**Tech Stack**  
-`Raspberry Pi` `Python` `IoT Sensors` `OpenCV` `REST API`
-
----
-
-#### 🚗 자율주행 자동차 제작 (2022.09&nbsp;~&nbsp;2022.12)
-> 카메라 영상과 조이스틱 입력값을 학습하여 자율주행하는 RC카 개발
-
-**주요 기능**
-- TensorFlow 기반 이미지-조향값 학습 모델 구현
-- Autodesk Fusion 360을 활용한 차체 외관 직접 설계 및 3D 프린팅 제작
-- 카메라 영상 실시간 처리 및 모터 제어
-
-**Tech Stack**  
-`Raspberry Pi` `Python` `TensorFlow` `OpenCV` `Fusion 360` `3D Printing`
-
----
 
 ### 🏗️ 교육 프로젝트
 
@@ -105,5 +61,48 @@
 
 **Tech Stack**  
 `Python` `FastAPI` `OpenCV` `Isolation Forest` `EfficientNet` `Random Forest` `ONNX Runtime` `Kakao Cloud` `Docker`
+
+---
+
+### 🎓 학부 프로젝트
+
+#### 🔥 스마트 화재 경보기 (2022.03&nbsp;~&nbsp;2022.07)
+> 실시간 센서 데이터 기반 화재 감지 및 스마트폰 알림 연동 IoT 화재 대응 시스템
+
+**주요 기능**
+- 열화상 카메라와 일산화탄소(CO) 센서를 활용한 화재 감지 시스템 구축
+- 화재 발생 시 부저·LED를 통한 즉각적인 현장 경고 제공
+- 스마트폰 앱 연동으로 실시간 화재 알림 전송
+- 센서 데이터 통합 처리 및 안정적인 하드웨어–소프트웨어 연동 구현
+
+**Tech Stack**  
+`Raspberry Pi` `Python` `IoT Sensors` `OpenCV` `REST API`
+
+---
+
+#### 😷 스마트 마스크 보관함 (2021.09&nbsp;~&nbsp;2021.12)
+> 비접촉 방식의 얼굴 인식 기반 마스크 제공 및 IoT 연동 스마트 보관 시스템
+
+**주요 기능**
+- 딥러닝(ResNet50, MobileNetV2) 기반 얼굴 인식을 통한 사용자 접근 제어
+- 마스크 미착용 시 보관함 자동 개방으로 비접촉 마스크 제공
+- 스마트폰 앱과 연동하여 마스크 재고 및 날씨 정보 확인 기능 구현
+- 보관함 문 개방 시 내부 램프 자동 제어 등 시스템 안정성 개선
+
+**Tech Stack**  
+`Raspberry Pi` `Python` `OpenCV` `TensorFlow` `Deep Learning` `IoT`
+
+---
+
+#### 🚗 자율주행 자동차 제작 (2021.09&nbsp;~&nbsp;2021.12)
+> 카메라 영상과 조이스틱 입력값을 학습하여 자율주행하는 RC카 개발
+
+**주요 기능**
+- TensorFlow 기반 이미지-조향값 학습 모델 구현
+- Autodesk Fusion 360을 활용한 차체 외관 직접 설계 및 3D 프린팅 제작
+- 카메라 영상 실시간 처리 및 모터 제어
+
+**Tech Stack**  
+`Raspberry Pi` `Python` `TensorFlow` `OpenCV` `Fusion 360` `3D Printing`
 
 ---
