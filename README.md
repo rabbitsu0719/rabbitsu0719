@@ -16,73 +16,24 @@
 </p>
 
 ---
+---
 
-## 🙋‍♀️ 나를 한 줄로 소개하면
-> **보안과 사용자 경험의 균형을 코드로 설계하는 백엔드 개발자입니다.**  
-> 서버가 흐름을 통제하는 인증 구조를 좋아합니다.
+## 📝 나를 한 줄로 소개하면
+
+| 한 줄 소개 | 설명 |
+|---|---|
+| 🔐 보안과 사용자 경험의 균형을 코드로 설계하는 백엔드 개발자입니다. | 서버가 흐름을 통제하는 **인증 구조(FSM · Server-driven Flow · S2S Verify)** 를 좋아합니다. |
 
 ---
 
-## 🧠 지금 하고 있는 일 (Now)
-- **T:CURITY** 2-Phase CAPTCHA 백엔드/API 설계 및 구현
-  - Session 기반 FSM
-  - Phase A / Phase B 서버 주도 분기
-  - Blind Error 정책 & S2S Verify
-- FastAPI 기반 **BaseResponse / ErrorCode 표준화**
-- 보안 UX 관점에서 인증 흐름 개선
+## 🎓 Education
+
+| 기간 | 소속 | 내용 |
+|---|---|---|
+| 2018.03 ~ 2023.02 | 전남대학교 | 전자통신공학부 수료 |
+| 2025.08 ~ 2026.02 | 스나이퍼팩토리 × 카카오클라우드 | 카카오클라우드로 배우는 AIaaS 마스터 클래스 2기 수료 |
 
 ---
 
-## 🛠 기술 스택 (Tech Stack)
-- **Language**: Python 3.11
-- **Framework**: FastAPI, Pydantic
-- **DB / ORM**: SQLAlchemy
-- **Infra**: Docker, GitHub Actions, Linux
-- **Interest**: Security Design, Verification Flow, Server-driven UX
+ 
 
----
-
-## 📊 GitHub 활동
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rabbitsu0719&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitsu0719&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🚀 주요 프로젝트
-- 🛡️ **T:CURITY Backend**  
-  → 2-Phase CAPTCHA, Session FSM, S2S Verify  
-  → https://github.com/t-curity/tcurity-backend
-
-- 📄 **DocAssistant**  
-  → OCR → 문서 분할 → Chatbot  
-  → https://github.com/rabbitsu0719/DocAssistant
-
----
-
-## 🎯 앞으로의 목표
-- 인증 시스템을 **MVP → MLP 수준으로 고도화**
-- 실제 서비스에 적용 가능한 보안 UX 설계
-- “보안을 해치지 않는 사용자 경험”을 구현하는 개발자
-
----
-
-<p align="right">
-  👀 <img src="https://komarev.com/ghpvc/?username=rabbitsu0719&style=flat&color=333333" />
-</p>## Hello rabbitsu0719 👋
-
-<!--
-**rabbitsu0719/rabbitsu0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
