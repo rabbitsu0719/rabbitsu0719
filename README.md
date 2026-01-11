@@ -6,7 +6,7 @@
 <h2 align="center">안녕하세요 👋 김수현입니다</h2>
 
 <p align="center">
-  🌿 <b>보안과 사용자 경험의 균형을 코드로 설계하는 백엔드 개발자</b><br/>
+  🌿 <b>클라우드 환경에서 안정성과 확장성을 설계하는 백엔드·클라우드 엔지니어 지망생</b><br/>
   Backend / API Engineer · FastAPI · Security-oriented
 </p>
 
