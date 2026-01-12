@@ -13,6 +13,7 @@
 <p align="center">
   <a href="mailto:rabbit-su@naver.com">📧 Email</a> ·
   <a href="https://chivalrous-case-1ba.notion.site/2e17891c1f5c807b974ffd45201170dd">📘 Portfolio</a> ·
+  <a href="https://velog.io/@soohyun123">📝 Velog</a> ·
   <a href="https://github.com/t-curity">🛡️ T:CURITY</a>
 </p>
 
