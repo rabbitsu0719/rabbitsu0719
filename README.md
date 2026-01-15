@@ -1,28 +1,25 @@
-<div align="center">
+<!-- =======================
+  rabbitsu0719 Profile README
+  vibe: 밝고 깔끔 + 카드형 섹션
+======================= -->
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=220&section=header&text=Hello%20I'm%20Soohyun%20Kim%20☁️&fontSize=42&fontAlignY=38&fontColor=1F2A37" />
+<h2 align="center">안녕하세요 👋 김수현입니다</h2>
+
+<p align="center">
+  🌿 <b>클라우드 환경에서 안정성과 확장성을 설계하는 백엔드·클라우드 엔지니어 지망생</b><br/>
+  Backend / API Engineer · FastAPI · Security-oriented
+</p>
+
+<p align="center">
+  <a href="mailto:rabbit-su@naver.com">📧 Email</a> ·
+  <a href="https://chivalrous-case-1ba.notion.site/2e17891c1f5c807b974ffd45201170dd">📘 Portfolio</a> ·
+  <a href="https://velog.io/@soohyun123">📝 Velog</a> ·
+  <a href="https://github.com/t-curity">🛡️ T:CURITY</a>
+</p>
 
 <br/>
-
-안녕하세요 김수현입니다  
-
-🌿 클라우드 환경에서 안정성과 확장성을 설계하는 백엔드·클라우드 엔지니어 지망생  
-
-**Backend / API Engineer · FastAPI · Security-oriented**
-
-<br/>
-
-<a href="mailto:rabbit-su@naver.com">📧 Email</a> ·
-<a href="https://chivalrous-case-1ba.notion.site/2e17891c1f5c807b974ffd45201170dd">📘 Portfolio</a> ·
-<a href="https://velog.io/@soohyun123">📝 Velog</a> ·
-<a href="https://github.com/t-curity">🛡️ T:CURITY</a>
 
 ---
-
-<!-- MAIN CARD -->
-<div style="background-color:#EAF6FD; padding:32px; border-radius:18px; max-width:1100px;">
-
 ## 🎓 Education
 | 기간 | 소속 | 내용 |
 |---|---|---|
@@ -157,8 +154,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer" />
-
-</div>
