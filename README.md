@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=220&section=header&text=Hello%20I'm%20Soohyun%20Kim%20☁️&fontSize=42&fontAlignY=38&fontColor=1F2A37" />
 
-안녕하세요 👋 김수현입니다  
+안녕하세요 김수현입니다  
 
 🌿 **클라우드 환경에서 안정성과 확장성을 설계하는 백엔드·클라우드 엔지니어 지망생**  
 Backend / API Engineer · FastAPI · Security-oriented  
