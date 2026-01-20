@@ -46,22 +46,22 @@
 **주요 기능**
 - **Phase A (행동 기반 검증)**
   - OpenCV 기반 절취선(Ticket Slice) 문제를 요청마다 동적 생성
-  - 드래그 좌표 시계열 데이터를 수집하여 속도·가속도·떨림 등 30+ 행동 특징 추출
+  - 드래그 좌표 시계열 데이터를 수집하여 속도·가속도·떨림 등 다차원 행동 특징 추출
   - Isolation Forest 기반 이상 탐지로 기계적 매크로 입력 1차 차단
 
 - **Phase B (인지 기반 검증)**
   - 3×3 이미지 그리드에서 정답 이미지를 순서대로 선택하는 인지 과제 제공
   - EfficientNet 기반 이미지 분류 + Random Forest 행동 분석 앙상블 검증
-  - 반복 실패 시 이미지 노이즈를 점진적으로 강화하는 동적 난이도 조절
+  - 반복 실패 시 이미지 노이즈를 점진적으로 강화하는 신뢰도 기반 동적 난이도 조절
 
 - **보안·아키텍처 설계**
-  - Server-Driven Flow 기반 세션 상태(FSM) 관리로 단계 우회 방지
-  - Blind Error Policy 적용으로 실패 원인 노출 차단
-  - Base64 인라인 이미지 전송으로 크롤링·정답 DB 구축 공격 방어
-  - In-Memory 세션 관리(TTL)로 고트래픽 환경에서도 저지연 처리
+  - Server-Driven Flow 기반 세션 상태(FSM) 관리로 인증 단계 스킵 및 흐름 우회 방지
+  - Blind Error Policy 적용으로 인증 실패 원인 및 내부 상태 노출 최소화
+  - 요청 단위 동적 이미지 생성 및 세션 바인딩 구조를 통해 단순 크롤링·정답 수집 공격에 대한 내성 확보
+  - In-Memory 세션 관리(TTL)로 고트래픽 환경에서도 저지연 인증 처리
 
 **Tech Stack**  
-`Python` `FastAPI` `OpenCV` `Isolation Forest` `EfficientNet` `Random Forest` `ONNX Runtime` `Kakao Cloud` `Docker`
+`Python` `FastAPI` `OpenCV` `Isolation Forest` `EfficientNet` `Random Forest` `Kakao Cloud` `Docker`
 
 ---
 
